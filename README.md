@@ -2,7 +2,7 @@
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/Arielanaskar/app_kasir_restoran.git
+git clone https://github.com/belvajihan/Belva.git
 cd app_kasir_restoran
 composer install
 copy .env.example rename->.env
