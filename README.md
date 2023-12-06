@@ -3,7 +3,7 @@
 1. **Clone Repository**
 ```bash
 git clone https://github.com/belvajihan/Belva.git
-cd app_kasir_restoran
+cd Belva
 composer install
 copy .env.example rename->.env
 ```
