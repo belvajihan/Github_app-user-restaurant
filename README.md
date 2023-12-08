@@ -5,7 +5,7 @@
 git clone https://github.com/belvajihan/Belva.git
 cd Belva
 composer install
-copy .env.example rename->.env
+copy .env.example .env
 ```
 2. **Buka ```.env``` lalu ubah baris berikut sesuaikan dengan databasemu yang ingin dipakai**
 ```
