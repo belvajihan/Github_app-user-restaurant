@@ -41,7 +41,7 @@
 								<input id="signin-username" name="username" type="text" class="form-control signin-username" placeholder="Username" required="required" autofocus>
 							</div>
 							<div class="password mb-3">
-								<label class="sr-only" for="signin-password">TWrite ur Password</label>
+								<label class="sr-only" for="signin-password">Write ur Password</label>
 								<input id="signin-password" name="password" type="password" class="form-control signin-password" placeholder="Password" required="required">
 								<div class="extra mt-3 row justify-content-between">
 									<div class="col-6">
