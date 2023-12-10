@@ -156,7 +156,7 @@ class DatabaseSeeder extends Seeder
             $filename = Str::random(40) . '.png'; 
 
             $imageData = file_get_contents($imageUrls[$key]); 
-            Storage::put('menu/' . $filename, $imageData); 
+            Storage::put('public/menu/' . $filename, $imageData); 
 
             $menu['picture'] = 'menu/' . $filename; 
 
