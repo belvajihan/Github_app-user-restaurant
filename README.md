@@ -24,6 +24,9 @@ php artisan db:seed
 4. **Jalankan bash**
 ```bash
 php artisan key:generate
+php artisan config:cache
+php artisan storage:link
+php artisan route:clear
 ```
 
 5. **Jalankan website**
