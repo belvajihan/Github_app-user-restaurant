@@ -2,8 +2,8 @@
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/belvajihan/Belva.git
-cd Belva
+git clone https://github.com/belvajihan/app-user-restaurant.git
+cd app-user-restaurant
 composer install
 copy .env.example .env
 ```
